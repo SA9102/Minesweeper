@@ -2,6 +2,7 @@ import pygame
 from sys import exit
 import random
 
+
 def get_indexes(id, length):
     row_num = id // length
     col_num = id % length
