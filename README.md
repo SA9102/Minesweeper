@@ -6,11 +6,7 @@ All code is by me.
 
 ## Info
 
-- Tiles that have a mine surrounding them will show a number representing the number of surrounding mines
-- Cannot yet win or lose the game
-- Cannot yet flag tiles
-- When a tile is pressed, sometimes a bug occurs where other tiles further away will become selected
-- Number of remaining mines not yet displayed
+- Still cannot win game yet
 
 ## Change Log
 
@@ -23,5 +19,3 @@ All code is by me.
   - Number of mines remaining is displayed
   - Lose when you click on a mine. All mines will then be shown in red
   - Press the space bar to start a new game
-  
-  - Still cannot win game yet
