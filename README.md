@@ -1,4 +1,4 @@
-# Minesweeper-in-development-
+# Minesweeper
 
 Minesweeper game using Python and Pygame.
 
