@@ -1,12 +1,8 @@
 # Minesweeper-in-development-
 
-Minesweeper game currently in development using Python and Pygame.
+Minesweeper game using Python and Pygame.
 
 All code is by me.
-
-## Info
-
-- Still cannot win game yet
 
 ## Change Log
 
