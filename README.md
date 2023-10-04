@@ -4,6 +4,11 @@ Minesweeper game using Python and Pygame.
 
 All code is by me.
 
+## How to install
+
+1. Clone the respository using ```git clone https://github.com/SA9102/Minesweeper.git```
+2. Run main.py in Python IDLE (there seems to be unknown compilation issues when using Visual Studio Code, so run it with just the standard Python IDLE)
+
 ## Change Log
 
 - 19/09/2022:
